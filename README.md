@@ -2,7 +2,8 @@
 
 
 Python script that sends goodnight messages when you fall asleep. 
-Writen using https://github.com/carpedm20/fbchat lib.
+
+Writen using [fbchat](https://github.com/carpedm20/fbchat) lib.
 
 
 
