@@ -1,17 +1,17 @@
-# girlfriend-goodnight-bot
+# girlfriend-goodnight-bot 🤖
 
-===
+
 Python script that sends goodnight messages when you fall asleep. 
 Writen using https://github.com/carpedm20/fbchat lib.
 
-===
+
 
 ## 🌈 Idea 🌈
 You turn on the script before the bed (you can put it on RaspberryPi and schedule time for auto-running)
 It reads your last message that you sent and if there is no messages longer than 5 minutes, bot starts to helping you.
 He sends randomized message form array of messages, logs you out, and shutdown your computer.
 
-===
+
 
 ## 📦 Installation & configuration 📦
 
@@ -30,6 +30,6 @@ Fill arrays with your own sentences that will be sent randomly:
 
 And finally: `python bot.py` 
 
-===
+
 
 if you have some problems or ideas for improvements feel free to contact me on `fr1sk@live.com`
