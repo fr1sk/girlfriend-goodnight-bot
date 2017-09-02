@@ -8,9 +8,9 @@ Writen using [fbchat](https://github.com/carpedm20/fbchat) lib.
 
 
 ## 🌈 Idea 🌈
-You turn on the script before the bed (you can put it on RaspberryPi and schedule time for auto-running).
-It reads your last message that you sent and if there is no messages longer than 5 minutes, bot starts to helping you.
-He sends randomized message form array of messages, logs you out, and shutdown your computer.
+The idea is to run the script before the bed (you can put it on RaspberryPi and schedule time for auto-running).
+Script reads your last message tat you've sent, and if there are no messages older than 5 mins, bot starts typing instead of you
+Bot is able to send randomized messages(taken out of array of predefined messages), log you out and shutdown your computer.
 
 
 
