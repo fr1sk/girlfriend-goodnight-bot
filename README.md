@@ -9,7 +9,7 @@ Writen using [fbchat](https://github.com/carpedm20/fbchat) lib.
 
 ## 🌈 Idea 🌈
 The idea is to run the script before the bed (you can put it on RaspberryPi and schedule time for auto-running).
-Script reads your last message tat you've sent, and if there are no messages older than 5 mins, bot starts typing instead of you
+Script reads your last message tat you've sent, and if there are no messages older than 5 mins, bot starts typing instead of you.
 Bot is able to send randomized messages(taken out of array of predefined messages), log you out and shutdown your computer.
 
 
